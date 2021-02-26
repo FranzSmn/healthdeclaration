@@ -85,9 +85,10 @@ body {
     box-sizing: border-box;
   }
   .formContainer {
-    top: 30px;
+    top: 20px;
     margin: 0;
     width: 370px;
+    border-radius: 8px;
   }
 
   .form-control {
@@ -106,6 +107,14 @@ body {
   .td1 {
     width: 190px;
     text-align: left;
+  }
+  .td2 {
+    width: 190px;
+    text-align: left;
+  }
+
+  .td-num {
+    display: none;
   }
   .first-rad {
     padding: 2px;

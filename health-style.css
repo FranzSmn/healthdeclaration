@@ -90,6 +90,15 @@ body {
     width: 370px;
   }
 
+  .form-control {
+    text-align: left;
+  }
+
+  .form-floating {
+    margin: 5px;
+    font-size: 16.5px;
+  }
+
   .body-form {
     padding: 0px;
     margin: 0px;

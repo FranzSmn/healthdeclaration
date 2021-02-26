@@ -72,3 +72,51 @@ body {
   width: 100%;
   padding: 0px 50px 15px;
 }
+
+@media only screen and (max-width: 768px) {
+  * {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .formContainer {
+    top: 30px;
+    margin: 0;
+    width: 370px;
+  }
+
+  .body-form {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .first-table {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .guest-info {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .radio-selection {
+    margin: 0px;
+  }
+
+  .foot-note {
+    text-align: justify;
+    font-size: 15px;
+    font-weight: 400;
+  }
+
+  .foot-detail {
+    width: 100%;
+    padding: 0px;
+  }
+}

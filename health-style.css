@@ -103,7 +103,13 @@ body {
     padding: 0px;
     margin: 0px;
   }
-
+  .td1 {
+    width: 190px;
+    text-align: left;
+  }
+  .first-rad {
+    padding: 2px;
+  }
   .first-table {
     padding: 0px;
     margin: 0px;
@@ -127,5 +133,9 @@ body {
   .foot-detail {
     width: 100%;
     padding: 0px;
+  }
+
+  .copyright {
+    width: 30px;
   }
 }

@@ -111,6 +111,11 @@ input[type="checkbox"] {
     margin: 0;
     padding: 0;
     text-align: center;
+    font-size: 16.5;
+  }
+
+  .rue {
+    font-size: 16.5;
   }
   body {
     padding: 0;
@@ -150,12 +155,14 @@ input[type="checkbox"] {
     width: 178px;
     text-align: left;
     color: #686868;
+    font-size: 16.5;
   }
   .td2 {
     width: 100%;
     text-align: left;
     color: #686868;
     padding: 50px 0 50px;
+    font-size: 16.5;
   }
 
   .radio-mobile {

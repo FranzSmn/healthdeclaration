@@ -147,7 +147,7 @@ input[type="checkbox"] {
     margin: 0px;
   }
   .td1 {
-    width: 184px;
+    width: 178px;
     text-align: left;
     color: #686868;
   }
@@ -159,9 +159,9 @@ input[type="checkbox"] {
   }
 
   .radio-mobile {
-    display: inline-block;
-    float: right;
-    padding-right: 5px;
+    display: block;
+    text-align: center;
+    padding: 5px 0 5px;
   }
 
   .td-child2 {

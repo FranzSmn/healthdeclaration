@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  color: #686868;
 }
 
 body {
@@ -10,7 +11,7 @@ body {
   font-size: 18px;
 }
 .headImage {
-  width: 70px;
+  width: 90px;
   height: auto;
   padding: 10px;
 }
@@ -21,7 +22,7 @@ body {
 
 .title-head {
   padding: 20px;
-  color: #808080;
+  color: #686868;
 }
 
 .tempRoom {
@@ -33,6 +34,13 @@ body {
 
 .rue {
   text-align: left;
+  font-size: 19px;
+  color: #686868;
+  padding-left: 7px;
+}
+
+.td1 {
+  padding-left: 10px;
 }
 
 .formContainer {
@@ -94,7 +102,7 @@ body {
   }
 
   .title-head {
-    font-size: 20px;
+    font-size: 23px;
   }
 
   .formContainer {
@@ -120,12 +128,12 @@ body {
   .td1 {
     width: 190px;
     text-align: left;
-    color: #808080;
+    color: #686868;
   }
   .td2 {
     width: 100%;
     text-align: left;
-    color: #808080;
+    color: #686868;
   }
 
   .radio-mobile {
@@ -140,6 +148,7 @@ body {
   .td-num {
     display: none;
   }
+
   .first-rad {
     padding: 2px;
   }

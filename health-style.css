@@ -106,6 +106,9 @@ input[type="checkbox"] {
   padding: 0px 50px 15px;
 }
 
+.btn-primary {
+  width: 110px;
+}
 @media only screen and (max-width: 768px) {
   * {
     margin: 0;
@@ -219,5 +222,9 @@ input[type="checkbox"] {
   .copyright {
     padding: 0 0 20px;
     font-size: 12px;
+  }
+
+  .btn-primary {
+    width: 100px;
   }
 }

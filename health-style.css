@@ -206,10 +206,11 @@ input[type="checkbox"] {
 
   .socIcon {
     padding: 2px;
+    font-size: 28;
   }
 
   .copyright {
     padding: 0 0 20px;
-    font-size: 16px;
+    font-size: 12px;
   }
 }

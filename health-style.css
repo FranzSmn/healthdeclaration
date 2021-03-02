@@ -48,7 +48,12 @@ input[type="checkbox"] {
   padding-left: 10px;
 }
 .td2 {
-  width: 27em;
+  width: 25em;
+  text-align: left;
+}
+
+.td-num {
+  width: 1.5em;
 }
 
 .formContainer {

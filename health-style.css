@@ -7,7 +7,7 @@
 body {
   background: #e2e1e0;
   text-align: center;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 16px;
 }
 .headImage {
@@ -25,6 +25,7 @@ input[type="checkbox"] {
 }
 
 .title-head {
+  font-weight: 500;
   padding: 0 0 20px;
   color: #686868;
 }
@@ -42,12 +43,16 @@ input[type="checkbox"] {
   color: #686868;
   padding-left: 15px;
 }
-.first-rad {
-  padding: 20px 0 0;
+
+.td-child {
+  padding: 0;
+  margin: 0;
+  text-align: left;
 }
+
 .td1 {
-  width: 27em;
-  padding-left: 10px;
+  width: 350px;
+  text-align: right;
 }
 .td2 {
   width: 25em;
@@ -74,10 +79,6 @@ input[type="checkbox"] {
   padding: 30px;
 }
 
-.first-table {
-  text-align: left;
-  margin: 30px;
-}
 .body-form {
   padding: 10px 50px 0px;
 }
@@ -183,7 +184,7 @@ input[type="checkbox"] {
 
   .radio-mobile {
     display: block;
-    text-align: right;
+    text-align: center;
     padding: 5px 17px 5px;
   }
 

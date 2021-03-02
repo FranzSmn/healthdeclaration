@@ -38,11 +38,13 @@ input[type="checkbox"] {
 
 .rue {
   text-align: left;
-  font-size: 19px;
+  font-size: 15px;
   color: #686868;
-  padding-left: 7px;
+  padding-left: 15px;
 }
-
+.first-rad {
+  padding: 20px 0 0;
+}
 .td1 {
   width: 27em;
   padding-left: 10px;
@@ -54,6 +56,10 @@ input[type="checkbox"] {
 
 .td-num {
   width: 1.5em;
+}
+
+.num-mob {
+  display: none;
 }
 
 .formContainer {
@@ -124,6 +130,7 @@ input[type="checkbox"] {
   }
 
   .rue {
+    padding: 15px 0 0 6px;
     font-size: 16.5;
   }
   body {
@@ -176,11 +183,18 @@ input[type="checkbox"] {
 
   .radio-mobile {
     display: block;
-    text-align: center;
-    padding: 5px 0 5px;
+    text-align: right;
+    padding: 5px 17px 5px;
   }
 
+  .num-mob {
+    display: inline;
+  }
   .td-child2 {
+    display: none;
+  }
+
+  .num-1 {
     display: none;
   }
   .td-num {
